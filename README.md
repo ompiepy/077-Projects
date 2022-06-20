@@ -5,15 +5,22 @@ This is a simple repository just to help anyone starting out with programming an
 
 These are the C projects that might help students who are just starting out with C language.
 
-1. Police Record Management System by [Safal karki](https://github.com/SafalKarkey) and his team.
+
+**077 BEI**
+
+
+Police Record Management System by [Safal karki](https://github.com/SafalKarkey) and his team.
 
 Check out the [Project](https://github.com/SafalKarkey/first-sem-C-project).
 
-2. Entrance Prepeartion Tool by [Sabin Acharaya](https://github.com/acharyaSabin11) and his team.
+ Entrance Prepeartion Tool by [Sabin Acharaya](https://github.com/acharyaSabin11) and his team.
 
 Check out the [Project](https://github.com/acharyaSabin11/C-project.git).
 
-3. Flappy Bird by [Rijan Ghimire](https://github.com/rijan7ghimire)
+
+**076 BEI**
+
+Flappy Bird by [Rijan Ghimire](https://github.com/rijan7ghimire)
 
    [Game](https://github.com/rijan7ghimire/fbird.git)
 

@@ -19,3 +19,8 @@ Check out the [Project](https://github.com/acharyaSabin11/C-project.git).
 
 
 For Now we were only able to collect these projects. Soon more will be added. Be sure to check it out.
+
+
+More for C language 
+
+[Simple C programs](https://github.com/Strange18/Simple_C_Programs_IOE.git)

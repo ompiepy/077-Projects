@@ -24,6 +24,11 @@ Flappy Bird by [Rijan Ghimire](https://github.com/rijan7ghimire)
 
    [Game](https://github.com/rijan7ghimire/fbird.git)
 
+**076 BCT**
+
+Visit-Nepal-2020 by [Prabin Bohora](https://github.com/prabinbohara10)
+
+[Repository](https://github.com/prabinbohara10/Visit-Nepal-2020.git)
 
 For Now we were only able to collect these projects. Soon more will be added. Be sure to check it out.
 

@@ -1,18 +1,13 @@
-# C and C++ Projects
-This repository contains the C projects build by the students of the Thapathali Engineering Campus.
-
-This is a simple repository just to help anyone starting out with programming and with C and ++ and wondering what project to carry on. Being a student we at our time were confused about what project to do and where can we get the sample projects based on C and C++ Language. So, here it is, you can find it here the sample projects....
-
-
+List of college projects by Students of Thapathali Engineering Campus 2077 Batch.
 
 **C projects**
 
-**077 BEI**
 
 
-1.Police Record Management System by [Safal karki](https://github.com/SafalKarkey) and his team.
 
-Check out the [Project](https://github.com/SafalKarkey/first-sem-C-project).
+* Police Record Management System by - Safal karki and his team (BEI077)
+
+Check out the [Project]().
 
 2.Entrance Prepeartion Tool by [Sabin Acharaya](https://github.com/acharyaSabin11) and his team.
 
